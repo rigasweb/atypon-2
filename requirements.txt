@@ -1,0 +1,6 @@
+fastapi==0.111
+elasticsearch==8.14
+pytorch~=2.3.1
+transformers~=4.41.2
+requests==2.32.3
+pydantic~=2.7.4
